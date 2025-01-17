@@ -1,10 +1,16 @@
-{
-  "baseUrl": "https://raw.githubusercontent.com/spaceofnova/linux-react-data-store/main/root",
-  "files": {
-    "com.system.files": "/assets/com.system.files.svg",
-    "com.system.settings": "/assets/com.system.settings.svg",
-    "com.system.store": "/assets/com.system.store.svg",
-    "com.system.terminal": "/assets/com.system.terminal.svg",
-    "com.system.welcome": "/assets/com.system.welcome.svg"
+[
+  {
+    "type": "metadata",
+    "hosturl": "https://raw.githubusercontent.com/spaceofnova/linux-react-data-store/main/root"
+  },
+  {
+    "outputDir": "assets",
+    "files": [
+      "com.system.files.svg",
+      "com.system.settings.svg",
+      "com.system.store.svg",
+      "com.system.terminal.svg",
+      "com.system.welcome.svg"
+    ]
   }
-} 
+] 
