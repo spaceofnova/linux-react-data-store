@@ -4,7 +4,7 @@
     "hosturl": "https://raw.githubusercontent.com/spaceofnova/linux-react-data-store/main/root"
   },
   {
-    "outputDir": "assets",
+    "outputDir": "root/assets",
     "files": [
       "com.system.files.svg",
       "com.system.settings.svg",
