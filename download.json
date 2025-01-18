@@ -6,11 +6,11 @@
   {
     "outputDir": "root/assets",
     "files": [
-      "root/assets/com.system.files.svg",
-      "root/assets/com.system.settings.svg",
-      "root/assets/com.system.store.svg",
-      "root/assets/com.system.terminal.svg",
-      "root/assets/com.system.welcome.svg"
+      "com.system.files.svg",
+      "com.system.settings.svg",
+      "com.system.store.svg",
+      "com.system.terminal.svg",
+      "com.system.welcome.svg"
     ]
   },
   {
